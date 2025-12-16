@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>“Peru 2024” & “Mexico and Cuba 2025” – Travelogue</title>
+<meta name="description" content="A travelogue exploring Peru, Mexico, and Cuba. Discover the lost Inca city of Machu Picchu, the ancient pyramids of Mexico, and the vibrant rhythm of Havana. Order now for a journey of a lifetime.">
+<style>
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f7f7f7;
+    color: #222;
+    line-height: 1.6;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+}
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+p {
+    text-align: center;
+}
+.section {
+    margin: 30px 0;
+}
+.highlight {
+    font-weight: bold;
+}
+ul {
+    padding-left: 20px;
+}
+.cta {
+    background: #111;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+.cta a {
+    display: block;
+    margin: 12px auto;
+    max-width: 260px;
+    padding: 14px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 6px;
+}
+.whatsapp { background: #25D366; }
+.viber { background: #7360F2; }
+.price {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.footer {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin-top: 30px;
+}
+img.book-cover {
+    display: block;
+    margin: 20px auto;
+    max-width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<!-- Hero Section -->
+<h1>📖 “Peru 2024” & “Mexico and Cuba 2025”</h1>
+<p><em>Travelogues that are lived, not just read.</em></p>
+<img class="book-cover" src="book-cover.jpg" alt="Book Cover">
+
+<!-- Description -->
+<div class="section">
+<p>
+What does it feel like to stand before <span class="highlight">Machu Picchu</span> in the silence of the Andes?  
+To fly over the <span class="highlight">Nazca Lines</span>? To get lost among the <span class="highlight">pyramids of ancient civilizations</span> in Mexico and the rhythm of Havana?
+</p>
+<p>
+Personal travelogues from Peru, Mexico, and Cuba – a real story, not a tourist guide.
+</p>
+</div>
+
+<!-- Country Sections -->
+<h2>🦙 Peru • 🗿 Mexico • 🎺 Cuba</h2>
+
+<div class="section">
+<ul>
+<li><span class="highlight">Peru:</span> Lima, Cusco, Lake Titicaca, the Andes, and Machu Picchu – the lost city of the Incas</li>
+<li><span class="highlight">Mexico:</span> Teotihuacan, Chichen Itza, Merida – pyramids, myths, megacities</li>
+<li><span class="highlight">Cuba:</span> Havana, Varadero, Trinidad – music, history, and human warmth</li>
+</ul>
+</div>
+
+<!-- Who the Book is For -->
+<div class="section">
+<h2>📌 Who is this book for?</h2>
+<ul>
+<li>Travel lovers</li>
+<li>Those planning a trip to Latin America</li>
+<li>Readers who seek real stories, not tourist guides</li>
+<li>Anyone who wants to “escape” even from their own couch</li>
+</ul>
+</div>
+
+<!-- Price and Order -->
+<div class="cta">
+<div class="price">💰 Price: 25 BGN</div>
+<p>📦 Delivery available worldwide</p>
+<a class="viber" href="viber://chat?number=%2B359877297115">Order via Viber</a>
+<a class="whatsapp" href="https://wa.me/359877297115">Order via WhatsApp</a>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+✨ One book – three countries – countless experiences.
+</div>
+
+</div>
+
+</body>
+</html>
